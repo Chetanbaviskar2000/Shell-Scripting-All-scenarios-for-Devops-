@@ -81,5 +81,3 @@ check_server "$@"
 
 
 
-
-Thanks 
